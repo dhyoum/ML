@@ -2,7 +2,9 @@
 
 ## Supervied Learning
 
-    * classification
-    * regression
+* classification
+* regression
 
 ## Unsupervied Learning
+
+## Reinforcement Learning
