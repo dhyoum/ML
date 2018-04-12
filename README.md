@@ -1,5 +1,5 @@
 ### Install
-`pip install numpy scipy matplotlib scikit-learn pandas pillow`
+`pip install numpy scipy matplotlib scikit-learn pandas pillow seaborn`
 
 ### Useful link 
 * [scikit](http://scikit-learn.org/stable/index.html)
