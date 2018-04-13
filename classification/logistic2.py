@@ -2,7 +2,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 import pandas as pd
 
-dataset = pd.read_csv('diabetes.csv', names=[1,2,3,4,5,6,7,8,9], header=None)
+dataset = pd.read_csv('../data/diabetes.csv', names=[1,2,3,4,5,6,7,8,9], header=None)
 print(dataset.head())
 print(dataset.shape)
 print(dataset.isnull().sum().sum())
